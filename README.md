@@ -1,7 +1,7 @@
 # Dashboard_excel
 This project, "Dashboard_excel," is a Microsoft Excel workbook with advanced functionalities, making it suitable for various data management and analysis tasks.
 
-This repository contains an advanced Microsoft Excel workbook (excel project.xlsm) designed for the purpose of data analysis as well as project management.\
+This repository contains an advanced Microsoft Excel workbook (excel project.xlsm) designed for the purpose of data analysis as well as project management.
 
 
 Key Features:
